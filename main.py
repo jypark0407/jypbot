@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from rtmbot import RtmBot
 from rtmbot.core import Plugin
 import re
@@ -26,3 +27,10 @@ print("야옹야옹")
 print("냥?")
 print("나는귀엽냥")
 print(":cat: :cat: :cat:")
+=======
+print ("Hello, World")
+print ("뿌애앵")
+print ("안뇽")
+print("웅 앵 웅")
+
+>>>>>>> d5e8d11f12b3d20596783d86dc11d86c4b5be9b7
